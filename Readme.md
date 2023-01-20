@@ -12,7 +12,7 @@ Descripcion general: Repositorio de proyectos del curso Microcontroladores I usa
 
 Proyectos subidos:
 
--Retardos.inc: Libreria de implementacion de diferentes retardos 
+-Libreria_retardos.inc: Libreria de implementacion de diferentes retardos 
 
 -P1_Corrimiento_Leds: Corrimiento de leds con retardo de 500ms y 250ms
 
