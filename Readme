@@ -19,3 +19,7 @@ Proyectos subidos:
 -P2_Display_7SEG: Numeros del 0 al 9 y letras de A a F en display de 7 segmentos
 
 -P3_Contador_ 7SEG_7447: Contador ascendente de 0 a 99 y descendente de 99 a 0 en displays de 7 segmentos y decodificador BCD 74LS47
+
+-P1_PARCIAL2: Programacion de interrupciones con prioridad con corrimiento de leds
+
+-P2_PARCIAL2: Programacion de interrupciones con prioridad con generacion de señal cuadrada
